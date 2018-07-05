@@ -1,7 +1,7 @@
-#HelloPizza
+# HelloPizza
 
 ### Projeto Interdisciplinar ADS 2ºPeriodo - UNIPAC
-### Projeto Central de Pedidos - Pizzaria
+#### Funções:
     - No Sistema o cliente deve se cadastrar;
     - Acessar o Sistema, visualiar e escolher uma das pizzarias cadastradas;
     - Montar seu pedido ( escolher pizza com opção de acrescentar adicionais ou retirar algum item da pizza escolhida).
